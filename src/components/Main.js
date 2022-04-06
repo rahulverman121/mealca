@@ -75,7 +75,7 @@ function Main() {
                             maintainAspectRatio: false,
                         }}
                         />
-                        <ine
+                        <Line
   datasetIdKey='id'
   data={{
     labels: ['Jun', 'Jul', 'Aug'],
